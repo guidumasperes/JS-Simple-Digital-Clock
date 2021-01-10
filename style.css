@@ -1,0 +1,21 @@
+.clock {
+	height: 175px;
+	width: 400px;
+	border: solid 5px;
+	margin: auto;
+	margin-top: 180px;
+}
+
+.screen {
+	height: 125px;
+	width: 250px;
+	border: solid 3px;
+	margin-top: 25px;
+	margin-left: 20px;
+	text-align: center;
+}
+
+.screen p {
+	font-size: 70px;
+	margin-top: 25px;
+}
